@@ -8,7 +8,7 @@ public class ExceptionEx {
 		
 		int totalMarks = 520;
 		int totalSubjects = 6;
-		
+		//uubuybubu
 		float averageMarks = 0;
 		String errorMsg = "";
 		try {
